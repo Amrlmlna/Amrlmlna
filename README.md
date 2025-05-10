@@ -1,4 +1,4 @@
-<h5 align="center">Hey there! 👋 I'm Amirul Maulana — currently diving deep into the world of fullstack web development 💻. I love building things from scratch, whether it's the frontend 🎨 or the backend ⚙️. I'm always curious and hungry for knowledge, and I’m excited to keep learning and exploring many areas in tech as I grow 🚀.</h5>
+<h3 align="center">Hey there! 👋 I'm Amirul Maulana — currently diving deep into the world of fullstack web development 💻. I love building things from scratch, whether it's the frontend 🎨 or the backend ⚙️. I'm always curious and hungry for knowledge, and I’m excited to keep learning and exploring many areas in tech as I grow 🚀.</h3>
 
 ###
 
