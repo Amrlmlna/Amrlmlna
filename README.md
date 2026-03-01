@@ -11,13 +11,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://c.tenor.com/bBz_-8o1LgIAAAAd/tenor.gif"  />
-</div>
-
-###
-
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <table align="center">
 <tr>
@@ -106,3 +100,11 @@
 </td>
 </tr>
 </table>
+
+###
+
+<div align="center">
+  <img height="200" src="https://c.tenor.com/bBz_-8o1LgIAAAAd/tenor.gif"  />
+</div>
+
+###
